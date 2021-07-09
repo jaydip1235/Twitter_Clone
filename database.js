@@ -13,7 +13,7 @@ class Database {
   connect() {
     mongoose
       .connect(
-        "mongodb+srv://admin:dbUser1234@cluster0.oilky.mongodb.net/TwitterCloneDB?retryWrites=true&w=majority"
+        "your_db_uri"
       )
       .then(() => {
         console.log("Database connection established");
