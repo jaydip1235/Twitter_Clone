@@ -1,18 +1,17 @@
 extends layouts/login-layout.pug
 
 block content
+    .loginContainer
+        h1 Login
+        form(method="post")
 
-    .loginContainer 
-        h1 Login 
-            form(action="" method="post")
+            p.errorMessage #{errorMessage}
 
-                p.errorMessage #{errorMessage}
-                //- input(type="text", name="logUsername",placeholder="Username or email",value=logUsername,required="")
-                //- input(type="password", name="logPassword",placeholder="Password",required="")
+            //- input(type="text", name="logUsername", placeholder="Username or email", value=logUsername required="")
+            //- input(type="password", name="logPassword", placeholder="Password", required="")
 
+            input(type="text", name="logUsername", placeholder="Username or email", value="jd" required="")
+            input(type="password", name="logPassword", placeholder="Password", value="1" required="")
 
-                input(type="text", name="logUsername",placeholder="Username or email",value="Jaydip Dey",required="")
-                input(type="password", name="logPassword",placeholder="Password",value="1234",required="")
-
-                input(type="submit", value="Login")
-            a(href="/register") Need an account? Register here.
+            input(type="submit", value="Login")
+        a(href="/register") Need an account? Register here.
