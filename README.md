@@ -40,10 +40,13 @@ given as suggestions.
 [![Home.png](https://i.postimg.cc/cHGkHzWq/Home.png)](https://postimg.cc/nsTGS0MT)
 
 
-## Profile page
+## Own Profile page
 [![Profile.png](https://i.postimg.cc/vZRVpwtd/Profile.png)](https://postimg.cc/KRNjMVW9)
 
-##Search page
+## Other's profile page
+[![Oth.png](https://i.postimg.cc/Gp677ZYg/Oth.png)](https://postimg.cc/TyqJhNtn)
+
+## Search page
 [![Search-PAge.png](https://i.postimg.cc/zvgfj3MH/Search-PAge.png)](https://postimg.cc/D47Fff77)
 
 ## Real time Notification Popup
@@ -63,3 +66,4 @@ given as suggestions.
 
 ## Notification Page
 [![Notification-Page.png](https://i.postimg.cc/DZz5p4qZ/Notification-Page.png)](https://postimg.cc/B8dxX679)
+
