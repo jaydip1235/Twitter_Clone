@@ -1,6 +1,6 @@
 
 ## Twitter Clone
-### To visit the twitter clone click [here](https://twitter-clone-jd.herokuapp.com)
+### To visit the twitter clone click [here](https://twitter-clone-jd.onrender.com)
 
 ## Features :
 • Login , registration and post updates.
