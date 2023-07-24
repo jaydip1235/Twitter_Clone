@@ -13,7 +13,7 @@ class Database {
   connect() {
     mongoose
       .connect(
-       "your db url"
+       process.env.MONGO_DB_URI
       )
       .then(() => {
         console.log("Database connection established");
